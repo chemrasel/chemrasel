@@ -4,7 +4,7 @@
 #### Web Developer
 
 
-JavaScript / HTML / CSS
+Love to learn new skills. Now learning JavaScript.
 
 Skills: JavaScript / HTML / CSS
 
