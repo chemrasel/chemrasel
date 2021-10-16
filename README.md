@@ -1,4 +1,3 @@
-![Web Developer]
 ### Hi there 👋, I'm Md Rasel Ahammed
 #### Web Developer
 
