@@ -1,5 +1,4 @@
-![Web Developer](https://scontent.fdac136-1.fna.fbcdn.net/v/t1.6435-9/s960x960/181445290_3629202337189835_4802072040426199195_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEtx7oY9jgoZ84pVOS6XZ20I6UnN3lQA-wjpSc3eVAD7JeCdvk-kRaUQl_dZMIXcW7Q7k98rp8aiQlvjlfCGQni&_nc_ohc=d9vrjyea6rcAX8C3kuc&_nc_ht=scontent.fdac136-1.fna&oh=d9f393446a2377894a29c5c292e4c5c3&oe=6154FE17)
-
+![Web Developer]
 ### Hi there 👋, I'm Md Rasel Ahammed
 #### Web Developer
 
